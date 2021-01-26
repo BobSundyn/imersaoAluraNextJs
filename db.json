@@ -1,0 +1,43 @@
+{
+    "bg":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2Fdc34f141389541.5b6a109ca2659.png&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F41389541%2FSKYRIM-Logo-Identity-Dragon-Symbol&tbnid=7a1oMsB0WNAcOM&vet=12ahUKEwirx6mEvbruAhVhHbkGHRU9DrkQMygMegUIARDLAQ..i&docid=-SrZ_vCDrK99-M&w=1920&h=1080&q=skyrim%20logo&client=opera-gx&ved=2ahUKEwirx6mEvbruAhVhHbkGHRU9DrkQMygMegUIARDLAQ",
+    "title": "Quiz CSS da Alura",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#03a9f4",
+        "secondary": "#4615b2",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
